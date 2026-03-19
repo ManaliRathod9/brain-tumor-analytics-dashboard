@@ -24,7 +24,7 @@ This project is a healthcare data analytics dashboard built using Power BI to an
 Simulated healthcare dataset with 10,000 patient records.
 
 ## 📸 Dashboard Preview
-(Add your screenshot here)
+![Dashboard](https://github.com/user-attachments/assets/1b2c60e7-7c34-4b2e-9f03-6bc83966b063)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file
